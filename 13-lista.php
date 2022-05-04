@@ -6,7 +6,7 @@
 $x=1;
 
 while($x<=10){
-    echo "<li>The number is $x</li>";
+    echo "<li>Lista $x</li>";
     $x++; 
 }
 
